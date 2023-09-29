@@ -1,0 +1,6 @@
+Entity Worksheet
+Player(ID, Name, Sport)
+
+Card(ID, Card_Number, Card_BrandID, PlayerID, Year, Is_Rookie, PSA_Grade)
+
+Card_Brand(ID, Brand, Brand_Subset)

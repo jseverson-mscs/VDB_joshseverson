@@ -1,0 +1,4 @@
+As a collector of sports cards, I want to be able to view my collection without having to physically look through them.
+As a collector of sports cards, I want to be able to show people my inventory in a digital format.
+As a collector of sports cards, I want to be able to inventory my collection for insurance purposes.
+As a seller of sports cards, I want to be able to show potential customers what I have to sell.
